@@ -1,18 +1,26 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
+
+<!DOCTYPE html><html><head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><style>
 img {
   max-width: 100%;
   height: auto;
 }
-</style>
-</head>
-<body>
+</style></head><body>
+<!-------------------- _blank --- _self ------------------------>
+<p><li><a href="
+LINK🔴
+" target="_blank"><img src="
+IMAGEM🔴
+" width="460" height="345"></a></li></p>
+<!-------------------------------------------------------------->
+<p><li><a href="
+LINK🔴
+" target="_blank"><img src="
+IMAGEM🔴
+" width="460" height="345"></a></li></p>
+<!-------------------------------------------------------------->
 
-<img src="img_chania.jpg" width="460" height="345">
-<p>Resize the browser window to see how the image will scale when the width is less than 460px.</p>
 
-</body>
-</html>
+
+
+</body></html>
