@@ -1,0 +1,8 @@
+<!----------------------------- _self ------ _blank 
+<CENTER><FONT SIZE=+3><B>Fortaleza, 23:22 07/05/2024🔴</B></FONT><br/>
+<FONT SIZE=+2><B>Bem vindo</B></FONT><br/></CENTER>
+<!---------------------------------------------------------------------------------->
+<center><h3>SITE MENU FIXO</h3></center>
+<!---------------------------------------------------------------------------------->
+<!-----------------------RELOGIO NOVO RELÓGIO BOM------------------------>
+<CENTER>Hoje é <u><html><head><title></title></head><body><SCRIPT LANGUAGE="JAVASCRIPT">
